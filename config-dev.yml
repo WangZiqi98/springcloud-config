@@ -1,2 +1,6 @@
 server:
   port: 9001
+  
+  
+config:
+  info: 哈哈哈
